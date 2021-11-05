@@ -1,0 +1,10 @@
+body{
+    background: rgb(14,14,14);
+    background: radial-gradient(circle, rgba(14,14,14,0.8211659663865546) 0%, rgba(0,0,0,0.927608543417367) 0%, rgba(0,0,0,1) 69%);
+}
+
+.footer{
+    text-decoration: none;
+    color: white;
+    text-align:center;
+}
